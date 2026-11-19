@@ -36,5 +36,5 @@ lab10-landing/
 
 ## Демо
 
-- GitHub: _посилання на репозиторій_
-- Live Demo: _посилання Vercel / Netlify_
+- GitHub: https://github.com/nastyakukhar2810-glitch/lab10-landing
+- Live Demo: https://ukrmovych1.netlify.app
